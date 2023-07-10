@@ -52,16 +52,13 @@
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     </a>
   </p>
+  
+---
 
+  <h3 align="left">Stats:</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriciaapenat&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="patriciaapenat" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriciaapenat&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=patriciaapenat&show_icons=true&locale=en&theme=midnight-purple" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=patriciaapenat&show_icons=true&locale=en&theme=midnight-purple" alt="patriciaapenat" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patriciaapenat&theme=midnight-purple" alt="patriciaapenat" />
-  </p>
 </p>
