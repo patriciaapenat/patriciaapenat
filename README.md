@@ -11,20 +11,19 @@
   </p>
 
   - 🌱 Currently learning and exploring the world of data science
-  - 👯 Looking forward to collaborating on exciting new projects!
+  - 🧚🏽‍♀️ Looking forward to collaborating on exciting new projects!
   - 💬 Ask me about Python, SQL, or R!
-  - 📫 Reach me at patriciaalejandrapenatorres@gmail.com
-  - ⚡ Fun fact: Back in elementary school, I used to cry every time I saw numbers, I find them pretty cool 😂
+  - 📫 Contact me via [email](mailto:patriciaalejandrapenatorres@gmail.com) or [LinkedIn](https://www.linkedin.com/in/patricia-pena-torres/)
+  - ⚡ Fun fact: Back in elementary school, I used to cry every time I saw numbers, now I find them pretty cool
 
 ---
 
   <h3 align="left">About Me:</h3>
 
-  - 🎓 I hold a Bachelor's degree in Sociology and a Master's degree in Business Intelligence and Data Management. I'm currently at a Data Science bootcamp.
-
+  - 🎓 I hold a Bachelor's degree in Sociology and a Master's degree in Business Intelligence and Data Management. I'm currently at a Data Science bootcamp. I'm also certified by Google as a junior IT support technician!
   - 🔭 I'm always learning new things online and continuously expanding my skills in data science and related technologies.
-
   - 💪 I'm totally confident in my skills to learn fast on my own and handle any challenge that comes my way!
+  - 👯 I have experience in social entrepreneurship as an startup co-founder. I've even taken the lead in conducting statistical analysis for our preclinical trials. Check out my startup, [Clarity Stethoscope](https://www.stethoscope-clarity.com/)!
 
 ---
 
