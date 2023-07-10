@@ -1,19 +1,22 @@
 <p align="center">
-  <h1 align="left">Hey there! 👋 I'm Patricia</h1>
+  <h1 align="left">Hey there! I'm Patricia 🙋🏽‍♀️ </h1>
   <h3 align="left">A cool junior data scientist! 😼😼😼 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat" alt="patriciaapenat" style="max-width: 75px; max-height: 50px;" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat" alt="patriciaapenat" /> </p>
+
+
 
   <p align="center">
-    <img src="https://github.com/patriciaapenat/patriciaapenat/assets/111457653/53734f86-7407-443f-882c-bbb45675a350" alt="cute-kitty-animated-gif" width="300" />
+    <img src="https://github.com/patriciaapenat/patriciaapenat/assets/111457653/d91538bd-6999-479d-ba8a-315fed7b168d" alt="cute-kitty-animated-gif-59" />
   </p>
- 
 
   - 🌱 Currently learning and exploring the world of data science
   - 👯 Looking forward to collaborating on exciting new projects!
   - 💬 Ask me about Python, SQL, or R!
   - 📫 Reach me at patriciaalejandrapenatorres@gmail.com
   - ⚡ Fun fact: I recently discovered my love for kdramas!
+
+---
 
   <h3 align="left">About Me:</h3>
 
@@ -22,6 +25,8 @@
   - 🔭 I'm always learning new things online and continuously expanding my skills in data science and related technologies.
 
   - 💪 I'm confident in my ability to adapt and function in the technological environment, leveraging my knowledge and experience to tackle challenges.
+
+---
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
