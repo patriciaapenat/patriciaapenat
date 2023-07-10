@@ -2,7 +2,7 @@
   <h1 align="left">Hey there! 👋 I'm Patricia</h1>
   <h3 align="left">A cool junior data scientist! 😼😼😼 </h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat" alt="patriciaapenat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat" alt="patriciaapenat" style="max-width: 75px; max-height: 50px;" /> </p>
 
   <p align="center">
     <img src="https://github.com/patriciaapenat/patriciaapenat/assets/111457653/53734f86-7407-443f-882c-bbb45675a350" alt="cute-kitty-animated-gif" width="300" />
