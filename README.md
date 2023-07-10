@@ -14,7 +14,7 @@
   - 👯 Looking forward to collaborating on exciting new projects!
   - 💬 Ask me about Python, SQL, or R!
   - 📫 Reach me at patriciaalejandrapenatorres@gmail.com
-  - ⚡ Fun fact: I recently discovered my love for kdramas!
+  - ⚡ Fun fact: Back in elementary school, I used to cry every time I saw numbers, I find them pretty cool 😂
 
 ---
 
@@ -24,7 +24,7 @@
 
   - 🔭 I'm always learning new things online and continuously expanding my skills in data science and related technologies.
 
-  - 💪 I'm confident in my ability to adapt and function in the technological environment, leveraging my knowledge and experience to tackle challenges.
+  - 💪 I'm totally confident in my skills to learn fast on my own and handle any challenge that comes my way!
 
 ---
 
