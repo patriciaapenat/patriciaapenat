@@ -20,7 +20,7 @@
 
   <h3 align="left">About Me:</h3>
 
-  - 🎓 I hold a Bachelor's degree in Sociology and a Master's degree in Business Intelligence and Data Management. I have completed a bootcamp in Data Science. I am currently in the AWS/re-Start program. I'm also certified by Google as a junior IT support technician!
+  - 🎓 I hold a Bachelor's degree in Sociology and a Master's degree in Business Intelligence and Data Management. I have completed a bootcamp in Data Science. I am currently in the AWS/re-Start program while studying an Upskilling in Big Data. I'm also certified by Google as a junior IT support technician!
   - 🔭 I'm always learning new things online and continuously expanding my skills in data science and related technologies.
   - 💪 I'm totally confident in my skills to learn fast on my own and handle any challenge that comes my way!
   - 👯 I have experience in social entrepreneurship as an startup co-founder. I've even taken the lead in conducting statistical analysis for our preclinical trials. Check out my startup, [Clarity Stethoscope](https://www.stethoscope-clarity.com/)!
