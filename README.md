@@ -13,7 +13,7 @@
   - 🌱 Currently learning and exploring the world of data science
   - 🧚🏽‍♀️ Looking forward to collaborating on exciting new projects!
   - 💬 Ask me about Python, SQL, or R!
-  - 📫 Contact me via [email](mailto:patriciaalejandrapenatorres@gmail.com) or [LinkedIn](https://www.linkedin.com/in/patricia-pena-torres/)
+  - 📫 Contact me via [email](mailto:patriciaapenat@outlook.com) or [LinkedIn](https://www.linkedin.com/in/patricia-pena-torres/)
   - ⚡ Fun fact: Back in elementary school, I used to cry every time I saw numbers, now I find them pretty cool
 
 ---
