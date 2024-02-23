@@ -1,23 +1,21 @@
 <p align="center">
-  <h1 align="left">Hey there! I'm Patricia 🙋🏽‍♀️ </h1>
+  <h1 align="center">Hey there! I'm Patricia 🙋🏽‍♀️</h1>
 </p>
 
+<h3 align="center">A junior data scientist! 😼😼😼</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat-square" alt="patriciaapenat" /> 
 </p>
-<h3 align="left">A cool junior data scientist! 😼😼😼 </h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="cute-kitty-animated-gif" width="75" height="75"/>
 
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat" alt="patriciaapenat" /> </p>
-
-
-
-  <p align="center">
-    <img src="https://github.com/patriciaapenat/patriciaapenat/assets/111457653/d91538bd-6999-479d-ba8a-315fed7b168d" alt="cute-kitty-animated-gif-59" />
-  </p>
-
-- 🌱 Currently learning and exploring the world of data science
-- 🧚🏽‍♀️ Looking forward to collaborating on exciting new projects!
-- 💬 Ask me about Python, SQL, or R!
-- ⚡ Fun fact: Back in elementary school, I used to cry every time I saw numbers, now I find them pretty cool
+- 🌱 I’m currently diving deep into the world of data science. 
+- 🧚🏽‍♀️ Eager to collaborate on innovative projects!
+- 💬 Feel free to ask me about Python, SQL, or R!
+- ⚡ Fun fact: I used to cry at the sight of numbers in elementary school; now, I think they're pretty cool.
 
 <p align="center">
   <a href="mailto:patriciaapenat@outlook.com">
@@ -33,17 +31,19 @@
 
 ---
 
-  <h3 align="left">About Me:</h3>
+<h2 align="center">About Me</h2>
 
-  - 🎓 I hold a Bachelor's degree in Sociology and a Master's degree in Business Intelligence and Data Management. I have completed a bootcamp in Data Science, Big Data and the AWS Re/Start Program. I'm also certified by Google as a junior IT support technician!
-  - 🔭 I'm always learning new things online and continuously expanding my skills in data science and related technologies.
-  - 💪 I'm totally confident in my skills to learn fast on my own and handle any challenge that comes my way!
-  - 👯 I have experience in social entrepreneurship as an startup co-founder. I've even taken the lead in conducting statistical analysis for our preclinical trials. Check out my startup, [Clarity Stethoscope](https://www.stethoscope-clarity.com/)!
+- 🎓 Bachelor's in Sociology & Master's in Business Intelligence and Data Management. Bootcamps in Data Science, Big Data and AWS
+- 🔭 Continuously expanding my skills in data science.
+- 💪 Confident self-learner, ready for any challenge.
+- 👯 Co-founder of [Clarity Stethoscope](https://www.stethoscope-clarity.com/), a digital health startup.
+- 〰️ I've done some research on AI and human signal processing, ask me!
 
 ---
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+  <h2 align="center">Languages and Tools</h2>
+
+  <p align="center">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
     </a>
@@ -84,11 +84,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/>
   </p>
 
+<h2 align="center">Stats</h2>
 
-  <h3 align="left">Stats:</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriciaapenat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=patriciaapenat&show_icons=true&locale=en&theme=dracula" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
-  </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriciaapenat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="patriciaapenat" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=patriciaapenat&show_icons=true&locale=en&theme=dracula" alt="patriciaapenat" style="margin-left: 10px;"/>
 </p>
