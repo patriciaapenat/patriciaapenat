@@ -1,6 +1,10 @@
 <p align="center">
   <h1 align="left">Hey there! I'm Patricia 🙋🏽‍♀️ </h1>
-  <h3 align="left">A cool junior data scientist! 😼😼😼 </h3>
+</p>
+
+</p>
+<h3 align="left">A cool junior data scientist! 😼😼😼 </h3>
+
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat" alt="patriciaapenat" /> </p>
 
@@ -10,11 +14,22 @@
     <img src="https://github.com/patriciaapenat/patriciaapenat/assets/111457653/d91538bd-6999-479d-ba8a-315fed7b168d" alt="cute-kitty-animated-gif-59" />
   </p>
 
-  - 🌱 Currently learning and exploring the world of data science
-  - 🧚🏽‍♀️ Looking forward to collaborating on exciting new projects!
-  - 💬 Ask me about Python, SQL, or R!
-  - 📫 Contact me via [email](mailto:patriciaapenat@outlook.com) or [LinkedIn](https://www.linkedin.com/in/patricia-pena-torres/)
-  - ⚡ Fun fact: Back in elementary school, I used to cry every time I saw numbers, now I find them pretty cool
+- 🌱 Currently learning and exploring the world of data science
+- 🧚🏽‍♀️ Looking forward to collaborating on exciting new projects!
+- 💬 Ask me about Python, SQL, or R!
+- ⚡ Fun fact: Back in elementary school, I used to cry every time I saw numbers, now I find them pretty cool
+
+<p align="center">
+  <a href="mailto:patriciaapenat@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft_Outlook"/>
+  </a>
+  <a href="mailto:patriciaalejandrapenatorres@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patriciaapenat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
@@ -54,7 +69,7 @@
     </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" alt="Spark" width="40" height="40"/>
+    <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="Spark" width="40" height="40"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="74" height="40"/>
@@ -72,8 +87,8 @@
 
   <h3 align="left">Stats:</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriciaapenat&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=patriciaapenat&show_icons=true&locale=en&theme=midnight-purple" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriciaapenat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=patriciaapenat&show_icons=true&locale=en&theme=dracula" alt="patriciaapenat" style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
   </p>
 
 </p>
