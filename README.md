@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="cute-kitty-animated-gif" width="75" height="75"/>
 
-
 - 🌱 I’m currently diving deep into the world of data science. 
 - 🧚🏽‍♀️ Eager to collaborate on innovative projects!
 - 💬 Feel free to ask me about Python, SQL, or R!
