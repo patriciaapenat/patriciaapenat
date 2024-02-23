@@ -52,7 +52,21 @@
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></p>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" alt="Spark" width="40" height="40"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="74" height="40"/>
+  </a>
+  <a href="https://docs.scipy.org/doc/scipy/index.html" target="_white" rel="noreferrer">
+    <img src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png" alt="SciPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_white" rel="noreferrer">
+    <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/es-es/getting-started-with-power-bi/" target="_white" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/>
   </p>
 
 
