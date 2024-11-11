@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently diving deep into the world of data science. 
 - 🧚🏽‍♀️ Eager to collaborate on innovative projects!
-- 🤓 Currently an Strategy and Innovation Intern 
+- 🤓 Currently a Junior Data Consultant
 - 💬 Feel free to ask me about Python, SQL, or R!
 - ⚡ Fun fact: I used to cry at the sight of numbers in elementary school; now, I think they're pretty cool.
 
