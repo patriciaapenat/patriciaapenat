@@ -37,7 +37,7 @@
 - 🔭 Continuously expanding my skills in data science.
 - 💪 Confident self-learner, ready for any challenge.
 - 👯 Co-founder of [Clarity Stethoscope](https://www.stethoscope-clarity.com/), a digital health startup.
-- 〰️ I've done some research on AI and human signal processing, ask me!
+- 〰️ I've done some research on AI and human signal processing, [take a look](https://publications.ersnet.org/content/erj/64/suppl68/pa784)
 
 ---
 
