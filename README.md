@@ -58,12 +58,3 @@
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-apps" target="_blank" rel="noreferrer"><img src="https://jaamautomation.com/wp-content/uploads/microsoft-power-platform-icons.png" alt="Power Apps" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"><img src="https://davidalzamendi.com/wp-content/uploads/2023/05/Fabric_final_x256.png" alt="Microsoft Fabric" width="40" height="40"/></a>
 </p>
-
-
-
-<p align="center">
-  <span>
-    <img src="https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif" alt="gojo-animated-gif" height="100"/>
-    <img src="https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif" alt="gojo-animated-gif-2" height="100"/>
-  </span>
-</p>
