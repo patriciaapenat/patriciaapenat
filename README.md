@@ -2,7 +2,7 @@
   <h1 align="center">Hey there! I'm Patricia</h1>
 </p>
 
-<h3 align="center">✨ A junior data scientist ✨</h3>
+<h3 align="center">✨ A junior data specialist ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat-square" alt="patriciaapenat" /> 
@@ -61,5 +61,9 @@
 
 
 
-  <p align="center">
-  <img src="https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif" alt="gojo-animated-gif" height="200"/>
+<p align="center">
+  <span>
+    <img src="https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif" alt="gojo-animated-gif" height="100"/>
+    <img src="https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif" alt="gojo-animated-gif-2" height="100"/>
+  </span>
+</p>
