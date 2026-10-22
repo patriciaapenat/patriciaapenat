@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="Cute animated kitty" width="75" />
+<img src="https://media1.tenor.com/m/ZZu2QC-efdUAAAAC/cute-cat-white.gif" alt="Animated pixel cat" width="76" />
 
-<h1>Hey there, I'm Patricia! 👋</h1>
+<h1> Hi, I'm Patricia! 🌺</h1>
 
-<h3>Data Analyst ✦ BI &amp; Data Engineering ✦ Digital Health</h3>
+<strong>Data Analyst ✦ BI &amp; Data Engineering ✦ Digital Health</strong>
 
-<p>
-  <i>Making sense of messy data, exploring meaningful questions<br />
-  &amp; occasionally getting lost in a research rabbit hole. ✨</i>
-</p>
+<p><code>&gt; exploring data, asking questions, building things...</code></p>
 
-<p>📍 Barcelona, Spain &nbsp;·&nbsp; 🩺 Curious about digital health</p>
+<p><i>Making sense of messy data &amp; occasionally getting lost ✨</i></p>
+
+<p>📍 Barcelona, Spain</p>
 
 <p>
   <img src="https://img.shields.io/badge/Data_%26_Analytics-80649E?style=flat-square" alt="Data &amp; Analytics" />
@@ -21,7 +20,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/patriciaapenat/"><img src="https://img.shields.io/badge/LinkedIn-51779B?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:patriciaapenat@outlook.com"><img src="https://img.shields.io/badge/Email-9E5877?style=flat-square&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email" /></a>
+  <a href="mailto:patriciaapenat@outlook.com">
+  <img src="https://img.shields.io/badge/Email-9E5877?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=patriciaapenat&amp;label=Profile%20views&amp;color=80649E&amp;style=flat-square" alt="Profile views" />
 </p>
 
