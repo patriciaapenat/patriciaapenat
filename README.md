@@ -1,14 +1,29 @@
 <div align="center">
 
-# Hey there! I'm Patricia 👋
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="Cute animated kitty" width="75" />
 
-### Data Analyst | BI & Data Engineering | Health Data Science
+<h1>Hey there, I'm Patricia! 👋</h1>
 
-📍 Barcelona, Spain
+<h3>Data Analyst ✦ BI &amp; Data Engineering ✦ Digital Health</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciaapenat/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:patriciaapenat@outlook.com)
-![Profile views](https://komarev.com/ghpvc/?username=patriciaapenat&label=Profile%20views&color=0e75b6&style=flat-square)
+<p>
+  <i>Making sense of messy data, exploring meaningful questions<br />
+  &amp; occasionally getting lost in a research rabbit hole. ✨</i>
+</p>
+
+<p>📍 Barcelona, Spain &nbsp;·&nbsp; 🩺 Curious about digital health</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Data_%26_Analytics-80649E?style=flat-square" alt="Data &amp; Analytics" />
+  <img src="https://img.shields.io/badge/Digital_Health-9E5877?style=flat-square" alt="Digital Health" />
+  <img src="https://img.shields.io/badge/Always_Learning-427D70?style=flat-square" alt="Always Learning" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/patriciaapenat/"><img src="https://img.shields.io/badge/LinkedIn-51779B?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:patriciaapenat@outlook.com"><img src="https://img.shields.io/badge/Email-9E5877?style=flat-square&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=patriciaapenat&amp;label=Profile%20views&amp;color=80649E&amp;style=flat-square" alt="Profile views" />
+</p>
 
 </div>
 
@@ -26,6 +41,7 @@ I'm especially drawn to **digital health and biomedical research**: healthcare c
 - 🧚🏽‍♀️ **Always up for:** learning something new and collaborating on interesting projects.
 - 🐈 **Fun fact:** I used to cry over maths in elementary school. Now I work with data for a living. Life is weird.
 
+
 ## 🩺 Digital health & research
 
 ### VIDAT | Clinical Analytics & Decision Support
@@ -38,7 +54,8 @@ I lead the technical development of **VIDAT's data-driven clinical decision-supp
 - Develop patient-specific dashboards to help clinicians visualise measurements, risk factors and follow-up information.
 - Implement scenario-based analyses showing estimated changes in selected cardiometabolic risk factors.
 
-*Tech:* `Power BI` · `Power Query` · `DAX` · `Data modelling` · `Clinical analytics`
+
+**Tech:** ![Power BI](https://img.shields.io/badge/Power_BI-80649E?style=flat-square&logo=powerbi&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-80649E?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-80649E?style=flat-square) ![Data Modelling](https://img.shields.io/badge/Data_Modelling-51779B?style=flat-square) ![Clinical Analytics](https://img.shields.io/badge/Clinical_Analytics-427D70?style=flat-square)
 
 ### Clarity Stethoscope | AI & Respiratory Sound Analysis
 *2020 – 2024*
@@ -51,7 +68,8 @@ I co-founded [Clarity Stethoscope](https://www.stethoscope-clarity.com/), a digi
 
 Our work led to abstracts published in the *European Respiratory Journal* and presented at the ERS International Congress. The project also received recognition in the Catalan entrepreneurship ecosystem.
 
-*Tech:* `Python` · `Machine learning` · `Signal processing` · `Biomedical data`
+
+**Tech:** ![Python](https://img.shields.io/badge/Python-9E5877?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-9E5877?style=flat-square) ![Signal Processing](https://img.shields.io/badge/Signal_Processing-80649E?style=flat-square) ![Biomedical Research](https://img.shields.io/badge/Biomedical_Research-427D70?style=flat-square)
 
 ## 📌 Selected technical projects
 
@@ -59,13 +77,15 @@ Our work led to abstracts published in the *European Respiratory Journal* and pr
 
 Exploring public-health survey data with **PySpark and TensorFlow**: data cleaning, missing-value imputation, exploratory analysis, autoencoders for dimensionality reduction and **K-means clustering** across five notebooks.
 
-`Python` `PySpark` `TensorFlow` `K-means`
+
+![Python](https://img.shields.io/badge/Python-9E5877?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-51779B?style=flat-square&logo=apachespark&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-9E5877?style=flat-square&logo=tensorflow&logoColor=white) ![K-means](https://img.shields.io/badge/K--means-80649E?style=flat-square)
 
 ### 🌍 [COVID-19 | Data Integration & Business Intelligence](https://github.com/patriciaapenat/TFM)
 
 A **collaborative master's project** combining pandemic, vaccination and development indicators from international sources. We built automated processing workflows with **Python and Azure** and explored the results through **Power BI dashboards**.
 
-`Python` `Azure` `SQL` `Power BI`
+
+![Python](https://img.shields.io/badge/Python-9E5877?style=flat-square&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-51779B?style=flat-square&logo=microsoftazure&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-80649E?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-80649E?style=flat-square&logo=powerbi&logoColor=white)
 
 ## 📚 Research & education
 
@@ -76,6 +96,9 @@ A **collaborative master's project** combining pandemic, vaccination and develop
 
 📂 [View my publications repository](https://github.com/patriciaapenat/Publications)
 
+
+![ERS 2024](https://img.shields.io/badge/ERS_2024-9E5877?style=flat-square) ![ERS 2021](https://img.shields.io/badge/ERS_2021-9E5877?style=flat-square) ![Biomedical Research](https://img.shields.io/badge/Biomedical_Research-427D70?style=flat-square)
+
 **Education**
 
 - 🎓 **Inter-university Master's Degree in Health Data Science** — Universitat Rovira i Virgili (coordinating university), 2026–2028.
@@ -83,44 +106,38 @@ A **collaborative master's project** combining pandemic, vaccination and develop
 - 🎓 **Bachelor's in Sociology** — Universitat Autònoma de Barcelona, 2018–2022.
 - ☁️ Additional training in **Data Science, Big Data and AWS re/Start**.
 
+
+![Health Data Science MSc](https://img.shields.io/badge/Health_Data_Science_MSc-427D70?style=flat-square) ![BI & Data Management](https://img.shields.io/badge/BI_%26_Data_Management-80649E?style=flat-square) ![Closing the Gap Scholar](https://img.shields.io/badge/Closing_the_Gap_Scholar-996E50?style=flat-square)
+
 ## 🛠️ Tech stack
 
 **Analytics & Business Intelligence**
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-555555?style=flat-square)
-![SAS](https://img.shields.io/badge/SAS-007CC3?style=flat-square)
-![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-4472C4?style=flat-square)
+
+![SQL](https://img.shields.io/badge/SQL-80649E?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-80649E?style=flat-square&logo=powerbi&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-80649E?style=flat-square) ![SAS](https://img.shields.io/badge/SAS-80649E?style=flat-square) ![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-80649E?style=flat-square)
 
 **Data Engineering & Platforms**
 
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-555555?style=flat-square)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-5B5FC7?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Data Modelling](https://img.shields.io/badge/Data_Modelling-555555?style=flat-square)
+
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-51779B?style=flat-square) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-51779B?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-51779B?style=flat-square&logo=oracle&logoColor=white) ![Data Modelling](https://img.shields.io/badge/Data_Modelling-51779B?style=flat-square)
 
 **Programming & Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-9E5877?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-9E5877?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-9E5877?style=flat-square&logo=scikitlearn&logoColor=white) ![R](https://img.shields.io/badge/R-9E5877?style=flat-square&logo=r&logoColor=white)
 
 **Cloud & Other Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-427D70?style=flat-square&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-427D70?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-427D70?style=flat-square&logo=docker&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-427D70?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
 <div align="center">
 
-### 🌐 Let's connect!
+<h3>🌐 Let's connect!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciaapenat/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:patriciaapenat@outlook.com)
+<a href="https://www.linkedin.com/in/patriciaapenat/"><img src="https://img.shields.io/badge/LinkedIn-51779B?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:patriciaapenat@outlook.com"><img src="https://img.shields.io/badge/Email-9E5877?style=flat-square&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email" /></a>
 
 </div>
