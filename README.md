@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/e7/46/5d/e7465d24ef9fa6a8b63de1962a91cda7.gif" alt="Animated Pochacco" width="76" />
+<img src="https://media.tenor.com/meDTXXdESAoAAAAj/dancing-dance.gif"
+     alt="Dancing Pochacco"
+     width="76" />
 
 <h1> Hi, I'm Patricia! 🌺</h1>
 
